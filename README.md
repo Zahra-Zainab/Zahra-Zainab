@@ -1,14 +1,9 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="280" height="200"/>
-</div>
-
 <h1 align="center">🌟 Zahra Zainab | Frontend Developer & Data Enthusiast</h1>
 
 <p align="center">
   Crafting seamless web experiences. Diving deep into data. Blending design with code.
 </p>
 
----
 
 ### 👩‍💻 About Me
 
