@@ -81,10 +81,8 @@ Hey there! I'm **Zahra Zainab**, a curious and creative technophile with a sharp
 ---
 
 ### 🗣️ Motto
+ “Design with purpose, develop with passion, and analyze with curiosity.”
 
-> “Design with purpose, develop with passion, and analyze with curiosity.”
-
----
 
 ### 🧭 Let’s Create Impactful Experiences!
 
