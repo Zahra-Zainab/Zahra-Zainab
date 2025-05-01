@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNyZ2ZzdmE3c3JmcDZvdG4wb3ZtcGVqeWFhdnV3OXV6eTZydTIxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="250" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNyZ2ZzdmE3c3JmcDZvdG4wb3ZtcGVqeWFhdnV3OXV6eTZydTIxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="650" height="250" />
 </div>
 
 
-<h1 align="center">🌟 Zahra Zainab | Frontend Developer & Data Enthusiast</h1>
+<h1 align="center"> Zahra Zainab | Frontend Developer & Data Analyst</h1>
 
 <p align="center">
   Crafting seamless web experiences. Diving deep into data. Blending design with code.
@@ -69,6 +69,8 @@ Hey there! I'm **Zahra Zainab**, a curious and creative technophile with a sharp
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
+
+---
 
 ### 🗣️ Motto
  “Design with purpose, develop with passion, and analyze with curiosity.”
