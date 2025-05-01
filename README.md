@@ -1,16 +1,99 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="280" height="200"/>
+</div>
 
-<!--
-**Zahra-Zainab/Zahra-Zainab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">🌟 Zahra Zainab | Frontend Developer & Data Enthusiast</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Crafting seamless web experiences. Diving deep into data. Blending design with code.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 About Me
+
+Hey there! I'm **Zahra Zainab**, a curious and creative technophile with a sharp eye for detail and a deep love for building functional, user-friendly, and beautifully designed digital products.
+
+- 🌐 Frontend Developer with a knack for responsive design and accessibility
+- 🎨 Passionate Web Designer—turning ideas into clean, modern UI/UX
+- 📊 Exploring the world of **Data Analytics** with Python & visualization tools
+- 💡 Problem-solver, fast-learner, and always hungry to improve
+
+**Fun Fact:** I love transforming real-world problems into aesthetic and scalable tech solutions.
+
+---
+
+### 💼 Currently Open To:
+- 🔹 Freelance Projects
+- 🔹 Remote Internships
+- 🔹 Creative Collaborations
+
+📧 **Reach out:** `zahranzainab@gmail.com`  
+🛠️ **Portfolio:** [Coming Soon]  
+🛒 **Hire me on Upwork:** [Zahra Zainab on Upwork](https://www.upwork.com/freelancers/~01c7dae672b169c7f8)
+
+---
+
+### 🚀 Tech Toolkit
+
+#### 🧠 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+#### 🎨 Web Designing Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00c4cc?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white"/>
+</p>
+
+#### 📊 Data Analytics Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+#### 🛠️ Dev Tools
+<p>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+### 🔍 Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zahrazainab&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahrazainab&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zahrazainab&theme=tokyonight" />
+</p>
+
+---
+
+### 🗣️ Motto
+
+> “Design with purpose, develop with passion, and analyze with curiosity.”
+
+---
+
+### 🧭 Let’s Create Impactful Experiences!
+
+If you're building something meaningful — **let’s team up.**  
+Drop a message or find me on [Upwork](https://www.upwork.com/freelancers/~01c7dae672b169c7f8) for collaborations.
+
+---
