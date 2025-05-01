@@ -29,7 +29,7 @@ Hey there! I'm **Zahra Zainab**, a curious and creative technophile with a sharp
 - Creative Collaborations
 
 📧 **Reach out:** `zahra.zainab1166@gmail.com`  
-🛠️ **Portfolio:** [Coming Soon]  
+🛠️ **Portfolio:** https://zahra-zainab.github.io/Personal-Portfolio/  
 🛒 **Hire me on Upwork:** [Zahra Zainab on Upwork](https://www.upwork.com/freelancers/~01c7dae672b169c7f8)
 
 ---
