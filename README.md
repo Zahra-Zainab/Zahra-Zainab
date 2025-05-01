@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6" width="500" height="250" />
+</div>
+
 <h1 align="center">🌟 Zahra Zainab | Frontend Developer & Data Enthusiast</h1>
 
 <p align="center">
@@ -64,21 +68,6 @@ Hey there! I'm **Zahra Zainab**, a curious and creative technophile with a sharp
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
-
----
-
-### 🔍 Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zahra-zainab&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahra-zainab&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zahra-zainab&theme=tokyonight" />
-</p>
-
----
 
 ### 🗣️ Motto
  “Design with purpose, develop with passion, and analyze with curiosity.”
