@@ -14,8 +14,8 @@
 
 Hey there! I'm **Zahra Zainab**, a curious and creative technophile with a sharp eye for detail and a deep love for building functional, user-friendly, and beautifully designed digital products.
 
-- Frontend Developer with a knack for responsive design and accessibility
-- Passionate Web Designer—turning ideas into clean, modern UI/UX
+- **Frontend Developer** with a knack for responsive design and accessibility
+- Passionate **Web Designer**—turning ideas into clean, modern UI/UX
 - Exploring the world of **Data Analytics** with Python & visualization tools
 - Problem-solver, fast-learner, and always hungry to improve
 
