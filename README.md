@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6" width="500" height="250" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNyZ2ZzdmE3c3JmcDZvdG4wb3ZtcGVqeWFhdnV3OXV6eTZydTIxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="250" />
 </div>
+
 
 <h1 align="center">🌟 Zahra Zainab | Frontend Developer & Data Enthusiast</h1>
 
