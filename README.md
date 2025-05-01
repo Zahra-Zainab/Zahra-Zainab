@@ -9,21 +9,21 @@
 
 Hey there! I'm **Zahra Zainab**, a curious and creative technophile with a sharp eye for detail and a deep love for building functional, user-friendly, and beautifully designed digital products.
 
-- 🌐 Frontend Developer with a knack for responsive design and accessibility
-- 🎨 Passionate Web Designer—turning ideas into clean, modern UI/UX
-- 📊 Exploring the world of **Data Analytics** with Python & visualization tools
-- 💡 Problem-solver, fast-learner, and always hungry to improve
+- Frontend Developer with a knack for responsive design and accessibility
+- Passionate Web Designer—turning ideas into clean, modern UI/UX
+- Exploring the world of **Data Analytics** with Python & visualization tools
+- Problem-solver, fast-learner, and always hungry to improve
 
 **Fun Fact:** I love transforming real-world problems into aesthetic and scalable tech solutions.
 
 ---
 
 ### 💼 Currently Open To:
-- 🔹 Freelance Projects
-- 🔹 Remote Internships
-- 🔹 Creative Collaborations
+- Freelance Projects
+- Remote Internships
+- Creative Collaborations
 
-📧 **Reach out:** `zahranzainab@gmail.com`  
+📧 **Reach out:** `zahra.zainab1166@gmail.com`  
 🛠️ **Portfolio:** [Coming Soon]  
 🛒 **Hire me on Upwork:** [Zahra Zainab on Upwork](https://www.upwork.com/freelancers/~01c7dae672b169c7f8)
 
@@ -70,12 +70,12 @@ Hey there! I'm **Zahra Zainab**, a curious and creative technophile with a sharp
 ### 🔍 Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zahrazainab&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahrazainab&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zahra-zainab&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahra-zainab&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zahrazainab&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zahra-zainab&theme=tokyonight" />
 </p>
 
 ---
