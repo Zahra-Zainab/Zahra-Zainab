@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center"> Zahra Zainab | Frontend Developer & Data Analyst</h1>
+<h1 align="center"> Zahra Zainab | Web Developer & Data Analyst</h1>
 
 <p align="center">
   Crafting seamless web experiences. Diving deep into data. Blending design with code.
